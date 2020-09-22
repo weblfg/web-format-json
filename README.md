@@ -25,7 +25,15 @@
   }
 ```
 2. 使用说明
-* npm install web-format-json
+#### 安装
+* cnpm安装
+```
+cnpm install web-format-json
+```
+* npm安装
+```
+npm install web-format-json
+```
 * 引入 const fn=require(module).aggeregation
 ```
 const formatter=require("web-format-json").aggeregation;
