@@ -1,0 +1,22 @@
+{
+  "name": "web-format-json",
+  "version": "1.0.3",
+  "description": "重新组装json数据的插件，便于前端处理数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "处理json数据",
+    "分类",
+    "前端开发",
+    "后端",
+    "格式化数据",
+    "json",
+    "response"
+  ],
+  "email":"weblfg@163.com",
+  "author": "weblfg",
+  "dependencies":"",
+  "license": "ISC"
+}
